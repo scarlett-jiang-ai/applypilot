@@ -1,0 +1,14 @@
+.private/
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.env*
+*.pdf
+*.docx
+*.sqlite*
+*.db
+browser-state/
+playwright-report/
+test-results/
+dist/

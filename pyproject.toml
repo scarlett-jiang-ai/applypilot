@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scarlett-applypilot"
+version = "2.0.0"
+description = "Private, freshness-first official ATS application workflow"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+browser = ["playwright>=1.48,<2"]
+
+[project.scripts]
+applypilot = "applypilot.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["applypilot*"]

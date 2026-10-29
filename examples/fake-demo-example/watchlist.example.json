@@ -1,0 +1,24 @@
+{
+  "companies": [
+    {
+      "company": "Fictional Labs",
+      "source": "ashby",
+      "board": "fictional",
+      "board_url": "https://jobs.ashbyhq.com/fictional",
+      "careers_url": "https://fictional.example/careers",
+      "stage": "Seed to Series B preference; verify actual stage",
+      "funding_evidence_url": null,
+      "introduction_opportunity": null
+    }
+  ],
+  "manual_sources": [
+    "LinkedIn public jobs/posts",
+    "X public hiring posts",
+    "YC Work at a Startup",
+    "HN Who is Hiring",
+    "Reddit",
+    "VC portfolio careers",
+    "accelerators",
+    "AI communities"
+  ]
+}

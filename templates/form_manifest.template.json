@@ -1,0 +1,20 @@
+{
+  "url": "https://jobs.example.com/fictional/123",
+  "company": "Fictional Labs",
+  "title": "Strategic Programs Associate",
+  "employer_careers_url": "https://fictional.example/careers",
+  "employer_link_verified_at": null,
+  "fields": [
+    {
+      "label": "Full name",
+      "kind": "text"
+    },
+    {
+      "label": "Resume",
+      "kind": "file"
+    }
+  ],
+  "upload_ack_selector": "#replace-with-observed-upload-ack",
+  "submit_label": "Submit application",
+  "confirmation_selector": "#replace-with-observed-confirmation"
+}
