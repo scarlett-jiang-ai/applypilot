@@ -1,0 +1,13 @@
+{
+  "companies": [],
+  "manual_sources": [
+    "LinkedIn public jobs/posts",
+    "X public hiring posts",
+    "YC Work at a Startup",
+    "HN Who is Hiring",
+    "Reddit",
+    "VC portfolio careers",
+    "accelerators",
+    "AI communities"
+  ]
+}

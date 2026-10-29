@@ -1,0 +1,31 @@
+{
+  "auto_submit_enabled": false,
+  "approved_role_categories": [],
+  "approved_locations": [],
+  "approved_seniority": [],
+  "approved_employment_types": [
+    "full-time"
+  ],
+  "excluded_companies": [],
+  "approved_resume_versions": [],
+  "approved_answer_bank_version": "",
+  "permitted_browser_account_scope": [
+    "isolated:no-account"
+  ],
+  "allowed_hosts": [],
+  "salary": {
+    "min": null,
+    "max": null,
+    "currency": "USD",
+    "period": "annual"
+  },
+  "profile_sha256": "",
+  "answer_bank_sha256": "",
+  "approved_manifest_hashes": [],
+  "approval": {
+    "approved_by": "",
+    "approved_at": null,
+    "policy_sha256": ""
+  },
+  "revoked_at": null
+}
